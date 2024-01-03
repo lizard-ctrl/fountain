@@ -4,7 +4,7 @@ let yStart = 0; //starting position of the text wall
 let customFont;
 let sWidth =200;
 let sHeight =200;
-let value = 200;
+let value = 400;
 
 function preload(){
   img1 =loadImage("xoxo.png")
