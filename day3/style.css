@@ -1,0 +1,33 @@
+body{
+    font-family: "Exos 2", "Fira Sans", "Noto Sans KR", sans-serif;
+    text-transform: uppercase;
+    color:white;
+    font-size: 1.1em;
+    background-color: red;
+  }
+
+#mainbg{
+    z-index: -1000;
+}
+
+#nextPage{
+    position: absolute;
+    top: 85%;
+    left: 8%;
+    color: white;
+    padding: 10px;
+    border: 2px solid limegreen;
+    z-index: 1000;
+}
+
+#woah{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    font-size: 2.1em;
+    background-color: red;
+    box-shadow: 0px 0px 35px 35px rgb(255,0,0); 
+    color: black;
+    padding: 10px;
+    z-index: 1000;
+}
